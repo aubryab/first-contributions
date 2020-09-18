@@ -30,6 +30,7 @@
 - [Lucas Deboch] (https://github.com/lucasdeboch)
 - [Meghana Srinath](https://github.com/Meghana359)
 - [Shivu D G](https://github.com/Shivz3232)
+- [Aubry Villaver Bratcher]
 - [Fransiscus Rolanda Malau](https://github.com/fransiscusrolandamalau)
 - [@siddharth963](https://github.com/siddharthmagadum16)
 - [Andrew Zajac](hhtps://github.com/ajzajac)
